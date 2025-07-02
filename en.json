@@ -1,0 +1,18 @@
+{
+  "searchPlaceholder": "Search for a city...",
+  "addCity": "Add City",
+  "hourlyForecast": "Hourly Forecast",
+  "dailyForecast": "7-Day Forecast",
+  "feelsLike": "Feels Like",
+  "humidity": "Humidity",
+  "wind": "Wind",
+  "visibility": "Visibility",
+  "sunrise": "Sunrise",
+  "sunset": "Sunset",
+  "uvIndex": "UV Index",
+  "now": "Now",
+  "errorCityNotFound": "Could not find city: \"{{city}}\"",
+  "errorApiKey": "API Key Error. Ensure it is valid and authorized.",
+  "errorDefault": "An unknown error occurred.",
+  "cityExists": "City \"{{city}}\" is already in your list."
+}
